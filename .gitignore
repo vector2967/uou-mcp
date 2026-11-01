@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+
+# 내부용 AI 작업 문서(올리지 않음)
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+HANDOFF.md
+codebase-map*.md
+인계*.md
+다음_할일.md
+.claude/
